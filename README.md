@@ -1,5 +1,14 @@
 ## description
-- 로컬에서 테스트용으로 사용하는 nodejs-typescript 보일러 플레이트 repository
+- this project is a boilerplate project for typescript program.
+
+## prerequisite
+- please use nvm to install nodejs, not node installer.
+  - it is recommendation of npm setting. [configuring local environment](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-node-js-and-npm)
+
+```bash
+# osx
+brew install nvm
+```
 
 ## command
 - start
